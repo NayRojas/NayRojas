@@ -10,12 +10,12 @@ I'm Nay. A Web Developer from Perú and Angular Developer focus on building wond
 </p>
 
 
-- 🔭 I’m currently working on Everis Peru as a Frontend Developer
-- 🌱 I’m currently learning ReactJS 0.0 
+- 🔭 I’m currently working on NTT Data as a Frontend Developer
+- 🌱 I’m currently learning Astro 0.0 
 - 👯 I’m looking to collaborate on OpenSource Projects and any great ideas.
 - 📫 How to reach me: Email me or text me to https://www.linkedin.com/in/nayrojas/
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am a cat mom and love making mini statues
+- ⚡ Fun fact: I am a cat mom and thinking about being a mom 
 
 
 
