@@ -15,8 +15,7 @@ I'm Nay. A Web Developer from Perú and Angular Developer focus on building wond
 - 👯 I’m looking to collaborate on OpenSource Projects and any great ideas.
 - 📫 How to reach me: Email me or text me to https://www.linkedin.com/in/nayrojas/
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am a cat mom and thinking about being a mom 
-
+- ⚡ Curious fact: I love ooks more than people 
 
 
 
